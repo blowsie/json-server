@@ -1,0 +1,7 @@
+**/*.log
+node_modules
+tmp
+dist
+.DS_Store
+.idea
+db.json
